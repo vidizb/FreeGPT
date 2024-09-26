@@ -1,4 +1,3 @@
-python
 streamlit==1.30.0
 websocket-client
 requests
@@ -19,7 +18,6 @@ pydantic
 pymailtm
 Levenshtein
 retrying
-mailgw_temporary_email
 pycryptodome
 random-password-generator
 numpy>=1.22.2 # pinned to avoid a vulnerability
